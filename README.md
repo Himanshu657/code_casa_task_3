@@ -1,1 +1,2 @@
-# code_casa_task_3
+# CODE-CASA_task-3
+Task-3 : Temperature Convertor using  HTML , CSS , JS
